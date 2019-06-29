@@ -148,9 +148,9 @@ void loop() {
    }
    
    // display default message
-   tm.displayText("Hack The");
+   tm.displayText("HACK THE");
    delay(750);
-   tm.displayText(" Planet ");
+   tm.displayText(" PLANET ");
    delay(750);
    
 }
